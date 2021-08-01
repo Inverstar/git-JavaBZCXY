@@ -6,7 +6,7 @@ import 数据.运算符;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        // write your code here
         基本数据类型 a1 = new 基本数据类型();
         a1.输出();
         运算符 a2 = new 运算符();

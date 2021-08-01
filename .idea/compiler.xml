@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="13">
+      <module name="git-JavaBZCXY" target="13" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-encoding utf8" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="git-JavaBZCXY" options="" />
+    </option>
+  </component>
+</project>
