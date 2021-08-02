@@ -1,6 +1,6 @@
-package demo1;
+package Day3.字符;
 
-public class Test4 {
+public class 布尔类型boolean {
     public static void main(String[] args) {
         /*一般用来做逻辑判断*/
         boolean b = 10 < 20;

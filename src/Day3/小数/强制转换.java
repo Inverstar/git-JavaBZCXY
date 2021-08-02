@@ -1,6 +1,6 @@
-package demo2;
+package Day3.小数;
 
-public class Test2 {
+public class 强制转换 {
     public static void main(String[] args) {
         // 从大到小转化的时候 为了尽量避免数据损失
         // 应该让大的变量的值 在小的变量的范围之内

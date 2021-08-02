@@ -1,7 +1,7 @@
 package Day2;
 
 //字节,整型,长短整型
-public class Test4 {
+public class 整数型 {
     public static void main(String args[]) {
         // 字节型整数  8位  1字节   256   -128  127
         byte b = 127;

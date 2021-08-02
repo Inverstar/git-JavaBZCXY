@@ -1,7 +1,7 @@
 package Day2;
 
 // 变量
-public class Test1 {
+public class 变量 {
     public static void main(String args[]) {
         // 声明变量同时赋值
         // = 叫做赋值符号 把右边的值赋值给左边的变量

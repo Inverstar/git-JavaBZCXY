@@ -1,8 +1,8 @@
-package demo1;
+package Day3.字符;
 
-public class Test6 {
+public class 转义字符 {
     public static void main(String[] args) {
-        /*转移字符虽然写法上多个符号 存储上认为是单个字符*/
+        /*转义字符虽然写法上多个符号 存储上认为是单个字符*/
         char c = '\'';
         c = '\\';
         /*横线跳格 对应 tab制表符*/

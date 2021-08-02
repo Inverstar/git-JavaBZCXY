@@ -4,7 +4,7 @@
 package Day1;
 
 //类名
-public class Demo2 {
+public class 类的示例 {
     //方法名
     public static void main(String args[]) {
         // 变量名

@@ -2,7 +2,7 @@ package Day2;
 // 静态成员变量-类变量-不可定义在方法中,可在类中使用
 // 类成员可访问类的变量
 
-public class Test2 {
+public class 静态变量 {
     // 成员变量 至少可以在当前类的所有方法中使用
     static int z = 20;
     int t = 11;
@@ -16,7 +16,7 @@ public class Test2 {
             // 局部变量 声明在循环结构内部 仅仅在当前循环内部可以使用
             int y = 10;
             System.out.println(y);
-            Test2 test2 = new Test2();
+            静态变量 test2 = new 静态变量();
             System.out.println(test2.t);
         }
         System.out.println(z);

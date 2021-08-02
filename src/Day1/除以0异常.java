@@ -1,6 +1,6 @@
 package Day1;
 
-public class Demo1 {
+public class 除以0异常 {
     public static void main(String args[]) {
         System.out.println("我叫 verstar");
         System.out.println("23");
