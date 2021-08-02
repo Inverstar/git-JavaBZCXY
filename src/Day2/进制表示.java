@@ -1,8 +1,8 @@
 package Day2;
 
-//进制转换 0/0x/0b
-public class 进制转换 {
-    public static void main(String args[]) {
+//进制表示 0/0x/0b
+public class 进制表示 {
+    public static void main(String[] args) {
         //十进制整数，如：99, -500, 0
         int a = 99;
         //八进制整数，要求以 0 开头，如：015   13
