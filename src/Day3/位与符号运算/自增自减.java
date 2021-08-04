@@ -1,6 +1,6 @@
-package demo3;
+package Day3.位与符号运算;
 
-public class Test8 {
+public class 自增自减 {
     public static void main(String[] args) {
         int i = 1;
         //i = i+1;

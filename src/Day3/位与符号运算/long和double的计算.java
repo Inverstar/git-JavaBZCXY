@@ -1,4 +1,4 @@
-package Day3.demo3;
+package Day3.位与符号运算;
 
 public class long和double的计算 {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package demo4;
+package Day3.关系比较;
 
-public class Test1 {
+public class 关系运算符 {
     public static void main(String[] args) {
         /*关系运算符 判断数据大小关系
          * 运算结果是布尔类型   true false

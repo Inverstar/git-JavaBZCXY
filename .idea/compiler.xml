@@ -7,7 +7,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="git-JavaBZCXY" options="" />
+      <module name="git-JavaBZCXY" options="--add-exports java.xml/com.sun.org.apache.xerces.internal.impl.xs=ALL-UNNAMED" />
     </option>
   </component>
 </project>

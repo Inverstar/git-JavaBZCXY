@@ -1,6 +1,5 @@
-package Day3.demo3;
-
-import java.text.DecimalFormat;
+package Day3.位与符号运算;
+// 无法对byte类型的数进行二进制输出.
 
 public class 位运算 {
     public static void main(String[] args) {
@@ -21,7 +20,7 @@ public class 位运算 {
         a = a&b;
 //        // | 或
         b = a|b;
-//        // ^ 异或
+//        // ^ 异或 相同为0, 不同为1
         a = a^b;
         //<< 左移i=乘2i
         a = a<<2;
@@ -37,6 +36,7 @@ public class 位运算 {
         String b2 = Integer.toBinaryString(b);
         System.out.println("b2 = " + b2);
 
+        System.out.println(13>>2);
 //        String b2 = Integer.toBinaryString(b);
 //        System.out.println("b2 = " + 输出固定为32.format(b2));
 

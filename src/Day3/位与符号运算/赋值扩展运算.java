@@ -1,4 +1,4 @@
-package Day3.demo3;
+package Day3.位与符号运算;
 
 public class 赋值扩展运算 {
     public static void main(String[] args) {
