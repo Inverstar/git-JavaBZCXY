@@ -1,17 +1,19 @@
 package Day4.demo1;
 
-public class Test2 {
+public class 位运算 {
     public static void main(String[] args) {
+
         /*位运算符在二进制上运算的符号
         <<  左移运算
         >>  右移运算
+        //双箭头左右移动高位补符号, 地位补0
         >>> 不带号右移运算
         &   按位与运算
         |   按位或运算
         ^   按位异或运算
         ~   按位取反运算
         */
-        int a =-8;//00001000
+        int a =-8;//10000000 00000000 00000000 00001000
         /*左移动一位相当于 *2 */
         int b = a << 1;// 00001000 00010000
         System.out.println(b);
@@ -46,6 +48,7 @@ public class Test2 {
 
         /*~ */
         int j=~-1;// -3 -2 -1 | 0 1 2 3
+        //
         System.out.println(j);
 
 

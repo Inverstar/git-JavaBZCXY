@@ -1,11 +1,11 @@
 package 数据;
 
 public class 按位取反 {
-
-    byte a = (byte)0b00000000;//这是补码
-    byte b = (byte)0b11000011;
+    //这是补码 取反是对补码取反
+    byte a = (byte)0b00000000;
+    byte b = (byte)0b11000011;//原码 10111101
     byte c = (byte)0b01010101;
-    byte d = (byte)0b10101010;
+    byte d = (byte)0b10101010;//原码 11010110
 
     public byte a1 = (byte)~a;
     public byte b1 = (byte)~b;

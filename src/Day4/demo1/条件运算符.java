@@ -1,6 +1,6 @@
-package demo1;
+package Day4.demo1;
 
-public class Test4 {
+public class 条件运算符 {
     public static void main(String[] args) {
         boolean b = 1+0>1 || 5>3?true:false;
         /*
